@@ -13,7 +13,15 @@ date: 2022-04-19
 sticky: false
 # 此页面会出现在首页的文档板块中
 star: false
+category:
+  - 技能学习
+tag:
+  - vim
 ---
+
+开始学习vim了！冲！
+
+<!-- more -->
 
 ## 1. 安装vim
 - 打开 vscode，在插件市场安装vim
