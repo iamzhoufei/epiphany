@@ -24,6 +24,15 @@ export default sidebar([
           'Vue3的reactivity源码'
         ],
       },
+      {
+        text: "vim练习记录",
+        icon: "vim",
+        prefix: 'vim/',
+        collapsable: true,
+        children: [
+          'vim练习记录 - 01'
+        ],
+      },
     ],
   },
   {
