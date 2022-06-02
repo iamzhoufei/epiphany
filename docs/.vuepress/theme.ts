@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "舟匪",
-    url: "https:/3055.io",
+    url: "https://github.com/iamzhoufei",
   },
 
   iconAssets: "//at.alicdn.com/t/font_2410206_a0xb9hku9iu.css",
