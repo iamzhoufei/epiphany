@@ -30,7 +30,8 @@ export default sidebar([
         prefix: 'vim/',
         collapsable: true,
         children: [
-          'vim练习记录 - 01'
+          'vim练习记录 - 01',
+          'vim练习记录 - 02'
         ],
       },
     ],
