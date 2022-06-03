@@ -31,7 +31,8 @@ export default sidebar([
         collapsable: true,
         children: [
           'vim练习记录 - 01',
-          'vim练习记录 - 02'
+          'vim练习记录 - 02',
+          'vim练习记录 - 03'
         ],
       },
     ],
