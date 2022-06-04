@@ -32,7 +32,8 @@ export default sidebar([
         children: [
           'vim练习记录 - 01',
           'vim练习记录 - 02',
-          'vim练习记录 - 03'
+          'vim练习记录 - 03',
+          'vim练习记录 - 04'
         ],
       },
     ],
