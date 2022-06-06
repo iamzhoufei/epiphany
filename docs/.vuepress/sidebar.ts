@@ -33,7 +33,8 @@ export default sidebar([
           'vim练习记录 - 01',
           'vim练习记录 - 02',
           'vim练习记录 - 03',
-          'vim练习记录 - 04'
+          'vim练习记录 - 04',
+          'vim练习记录 - 05'
         ],
       },
     ],
