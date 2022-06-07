@@ -8,7 +8,6 @@ export default sidebar([
     children: [
       {
         text: "React",
-        icon: "react",
         prefix: 'react/',
         collapsable: true,
         children: [
@@ -17,7 +16,6 @@ export default sidebar([
       },
       {
         text: "Vue",
-        icon: "vue",
         prefix: 'vue/',
         collapsable: true,
         children: [
@@ -25,8 +23,7 @@ export default sidebar([
         ],
       },
       {
-        text: "vim练习记录",
-        icon: "vim",
+        text: "vim练习",
         prefix: 'vim/',
         collapsable: true,
         children: [
@@ -35,6 +32,15 @@ export default sidebar([
           'vim练习记录 - 03',
           'vim练习记录 - 04',
           'vim练习记录 - 05'
+        ],
+      },
+      {
+        text: "网络相关",
+        prefix: 'network/',
+        collapsable: true,
+        children: [
+          '建立TCP连接的过程',
+          '释放TCP连接的过程'
         ],
       },
     ],
